@@ -1,0 +1,24 @@
+ul{
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: -40;
+	list-style-type: none;
+}
+
+.logo{
+	width: 100px;
+}
+.navigation-a{
+	margin-top: 10px;
+	display: inline-block;
+	text-decoration: none;
+}
+.navigation{
+	margin-top: 30px;
+}
+.banner-section{
+	margin-top: 30px;
+}
+.banner-img{
+	width: 1170;
+}
